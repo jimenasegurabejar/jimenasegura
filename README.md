@@ -2,8 +2,6 @@
 
 # Hi! I'm Jimena 💮
 
-Hi! I am the founder of *AtheneioLab*, working at the intersection of **optimal transport theory** and **machine learning**.
-
 I share my research notes and lectures on [Cortex Dreams](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6?pvs=74).
 
 <!--
