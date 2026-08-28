@@ -3,12 +3,7 @@
 # Hi! I'm Jimena 🌸
 
 
-My research ranges from developing theoretical frameworks in **[applications neuroscience ASD human brain organoids](https://www.nature.com/articles/s41593-026-02316-x)** and cellular agriculture through **[Athenei Biosciences](https://aaru.com/)**, biological superintelligence for cellular agriculture from scalable alignment via entropic optimal transport for myogenic cells behavior to towards a turing test for cellular agriculture but I’m always exploring new theoretical ideas and exploring new problems 
-
-
-
-
-
+My research ranges from developing theoretical frameworks in **[applications neuroscience ASD human brain organoids](https://www.nature.com/articles/s41593-026-02316-x)** and cellular agriculture through **[Athenei Biosciences](https://aaru.com/)**, biological superintelligence for cellular agriculture from scalable alignment via entropic optimal transport for myogenic cells behavior to towards a turing test for cellular agriculture 
 
 
 
