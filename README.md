@@ -9,7 +9,7 @@ My research ranges from developing theoretical frameworks in applications neuros
 
 
 
-Now, I'm creating a research lab creating the foundational models for the new era of physical intelligence.
+Now, I'm creating **Physis Labs** the foundational models for the new era of physical intelligence.
 
 
 
