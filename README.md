@@ -7,7 +7,7 @@ My research ranges from developing theoretical frameworks in **[applications neu
 
 My research interests are optimal transport, schrondinger bridges, 
 
-Now, creating **[Physis Labs]**(https://aaru.com/)** a research lab creating the foundational models for the new era of physical intelligence.
+Now, creating **[Physis Labs](https://aaru.com/)**, a research lab creating the foundational models for the new era of physical intelligence.
 
 
 I share my research notes and lectures on **[Cortex Dreams](https://unmarred-melon-c6e.notion.site/Cortex-Dreams-3c907b7a7d3480afbdfecb17ac314da6?pvs=74).**
