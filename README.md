@@ -2,7 +2,8 @@
 
 # Hi! I'm Jimena 🌸
 
-My research ranges from developing theoretical frameworks in applications neuroscience ASD human brain organoids and cellular agriculture through Athenei Biosciences, biological superintelligence for cellular agriculture.
+
+My research ranges from developing theoretical frameworks in applications neuroscience ASD human brain organoids and cellular agriculture through **Athenei Biosciences**, biological superintelligence for cellular agriculture.
 
 
 
